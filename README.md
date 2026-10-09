@@ -1,5 +1,6 @@
-#Viva booth
-<img src="assets/vivaa.png" alt="Viva booth landing page" width="500" />
+# Viva booth
+
+<div align="center"><img src="assets/vivaa.png" alt="Viva booth landing page" width="500" /></div>
 
 STARK hackathon: students practise a thesis defence or class talk out loud.
 
@@ -10,3 +11,5 @@ We do not decide scientific “truth.” We decide: said vs their manuscript, na
 Open talk: no paste. Citations come from speech only, then the same Scholarxiv check.
 
 Not a ChatGPT tab. Not a search-only paper chatbot. Not a TED “energy” scorer. Not a full-PDF factory.
+
+Built with ❤️ by Team <strong>Arada</strong>
